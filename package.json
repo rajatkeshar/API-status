@@ -1,0 +1,19 @@
+{
+  "name": "api-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mailer.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node status.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "4.7.0",
+    "request": "2.88.0"
+  }
+}
