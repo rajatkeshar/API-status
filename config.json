@@ -1,12 +1,12 @@
 {
 	"URL": "http://localhost:9305",
 	"IP": "127.0.0.1",
-	"INTERVAL": "300000",
-	"TO": "neeraj.kumar@oodlestechnologies.com, rajat.kesharwani@oodlestechnologies.com",
-	"FROM": "'Rajat Kesharwani' <rajat.kesharwani@oodlestechnologies.com>",
+	"INTERVAL": "1000",
+	"TO": "rajat.sunny2@gmail.com.com",
+	"FROM": "'No Reply - API Monitoring' <rajat.sunny2@gmail.com.com>",
 	"SUBJECT": "Block Syncing Failed!!",
 	"AUTH": {
-		"USER": "xyz.@gmail.com",
+		"USER": "",
 		"PASSWORD": ""
 	}
 }
