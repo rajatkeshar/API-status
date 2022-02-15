@@ -1,12 +1,11 @@
 {
-	"URL": "http://localhost:9305",
-	"IP": "127.0.0.1",
-	"INTERVAL": "1000",
-	"TO": "rajat.sunny2@gmail.com.com",
-	"FROM": "'No Reply - API Monitoring' <rajat.sunny2@gmail.com.com>",
-	"SUBJECT": "Block Syncing Failed!!",
+	"TO": "rajat.sunny2@gmail.com, praveen@belrium.com",
+	"FROM": "'No Reply - API Monitoring' <support@belfrics.io>",
 	"AUTH": {
 		"USER": "",
 		"PASSWORD": ""
-	}
+	},
+	"IP_LIST": [
+		
+	]
 }
